@@ -14,6 +14,12 @@
 - Nanchang University enterprise wechat health clocking
 
 
+## My social platform
+- Answer math questions and publish articles about math and reading-[知乎](https://www.zhihu.com/people/niu-l-28)
+- Release the street health, leisure and other entertainment videos-[B站](https://space.bilibili.com/354150688)
+
+
+
 ## What am I studying recently
 
 ### CS
