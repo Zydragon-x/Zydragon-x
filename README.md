@@ -10,7 +10,7 @@
 
 
 ## A little something I made
-- My math notes(pending)
+- [My math notes](https://github.com/Zydragon-x/Ncu-math-notes)
 - Nanchang University enterprise wechat health clocking
 
 
