@@ -10,8 +10,8 @@
 
 
 ## A little something I made
-- (...)
-- (...)
+- [My math notes(pending)](https://fanyi.youdao.com/)
+- Nanchang University enterprise wechat health clocking
 
 
 ## What am I studying recently
