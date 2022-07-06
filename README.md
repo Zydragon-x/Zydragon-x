@@ -9,7 +9,7 @@
 
 ## A little something I made
 - [My math notes](https://github.com/Zydragon-x/Ncu-math-notes)
-- Nanchang University enterprise wechat health clocking
+- 
 
 ## My social platform
 - Answer math questions and publish articles about math and reading-[知乎](https://www.zhihu.com/people/niu-l-28)
