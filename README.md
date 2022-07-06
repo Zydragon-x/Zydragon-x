@@ -10,7 +10,7 @@
 
 
 ## A little something I made
-- [My math notes(pending)](https://fanyi.youdao.com/)
+- My math notes(pending)
 - Nanchang University enterprise wechat health clocking
 
 
