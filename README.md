@@ -10,6 +10,7 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zydragon-x&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zydragon-x)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src="https://stats.justsong.cn/api/zhihu?username=niu-l-28&theme=dark" alt="Zydragon-x's Zhihu Stats" width="49%" />](https://www.zhihu.com/people/niu-l-28)
 
