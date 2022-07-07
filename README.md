@@ -8,11 +8,11 @@
 [![Zhihu](https://img.shields.io/static/v1?label=Zhihu&message=216&color=blue&logo=zhihu&labelColor=abcdef)](https://www.zhihu.com/people/niu-l-28)
 [![Bilibili](https://img.shields.io/badge/Bilibili-4-ff69b4)](https://space.bilibili.com/354150688)
 
-## A little something I made
+## A little something I made 
 - [My math notes](https://github.com/Zydragon-x/Ncu-math-notes)
 
 
-## My social platform
+## My social platform :tophat:
 - Answer math questions and publish articles about math and reading-[知乎](https://www.zhihu.com/people/niu-l-28)
 - Release the street workout, leisure and other entertainment videos-[B站](https://space.bilibili.com/354150688)
 
