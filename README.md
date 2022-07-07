@@ -12,7 +12,7 @@
 - [My math notes](https://github.com/Zydragon-x/Ncu-math-notes)
 
 
-## My social platform :tophat:
+## My social platform :space_invader:
 - Answer math questions and publish articles about math and reading-[知乎](https://www.zhihu.com/people/niu-l-28)
 - Release the street workout, leisure and other entertainment videos-[B站](https://space.bilibili.com/354150688)
 
