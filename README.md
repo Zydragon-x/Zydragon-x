@@ -28,10 +28,9 @@
 - **Manimgl**
 
 ---
-<!--START_SECTION:waka-->
-
-
-<!--END_SECTION:waka-->
+<a href="#">
+<img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Zydragon-x&layout=compact&hide=html,java' width="400px" />
+</a>
 
 ---
 
