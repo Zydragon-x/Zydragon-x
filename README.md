@@ -1,4 +1,3 @@
-# Zydragon-x  
 
 :ghost:**Hello, welcome to my GitHub. I'm ZYD, a sophomore majoring in mathematics at [Nanchang University](https://www.ncu.edu.cn/)**:school:
 
