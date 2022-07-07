@@ -21,12 +21,7 @@
 - Release the street workout, leisure and other entertainment videos-[B站](https://space.bilibili.com/354150688)
 
 ## What am I studying recently :dart:
-
-### CS 
-- **Tex**
-- **Markdown**
 - **Matlab**
 - **Mathematica**
-- **Python**
 - **Manimgl**
 
