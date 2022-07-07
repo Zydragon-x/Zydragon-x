@@ -18,7 +18,7 @@
 
 ## What am I studying recently 
 
-### CS
+### CS :dart:
 :dart:
 - **Tex**
 - **Markdown**
