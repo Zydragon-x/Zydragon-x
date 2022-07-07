@@ -12,6 +12,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zydragon-x&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Zydragon-x&layout=compact&hide=html,java' width="400px" />
 
 ## A little something I made :pencil2:
 - [My math notes](https://github.com/Zydragon-x/Ncu-math-notes)
