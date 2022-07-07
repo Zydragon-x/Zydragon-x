@@ -1,5 +1,5 @@
 # Zydragon-x 
-**Hello, welcome to my GitHub. I'm ZYD, a sophomore majoring in mathematics at [Nanchang University](https://www.ncu.edu.cn/)**
+**Hello, welcome to my GitHub. I'm ZYD, a sophomore majoring in mathematics at [Nanchang University](https://www.ncu.edu.cn/)**:学校:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=%E5%81%87&vCenter=%E5%81%87&lines=Abstractness+is+the+price+of+generality)](https://git.io/typing-svg)
 
