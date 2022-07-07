@@ -8,7 +8,7 @@
 [![Zhihu](https://img.shields.io/static/v1?label=Zhihu&message=216&color=blue&logo=zhihu&labelColor=abcdef)](https://www.zhihu.com/people/niu-l-28)
 [![Bilibili](https://img.shields.io/badge/Bilibili-4-ff69b4)](https://space.bilibili.com/354150688)
 
-## A little something I made 
+## A little something I made :pencil2:
 - [My math notes](https://github.com/Zydragon-x/Ncu-math-notes)
 
 
