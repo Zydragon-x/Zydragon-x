@@ -32,10 +32,3 @@
 - **Python**
 - **Manimgl**
 
-
-
-<img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Zydragon-x&layout=compact&hide=html,java' width="400px" />
-
-
-
-
