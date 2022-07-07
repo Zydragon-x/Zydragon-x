@@ -9,7 +9,7 @@
 [![Bilibili](https://img.shields.io/badge/Bilibili-4-ff69b4)](https://space.bilibili.com/354150688)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zydragon-x&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zydragon-x&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zydragon-x&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## A little something I made :pencil2:
