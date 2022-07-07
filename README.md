@@ -19,7 +19,6 @@
 ## What am I studying recently 
 
 ### CS :dart:
-:dart:
 - **Tex**
 - **Markdown**
 - **Matlab**
