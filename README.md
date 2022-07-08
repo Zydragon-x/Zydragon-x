@@ -3,6 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=%E5%81%87&vCenter=%E5%81%87&lines=Abstractness+is+the+price+of+generality)](https://git.io/typing-svg)
 
+
 :stuck_out_tongue_closed_eyes:
 [![GitHub](https://img.shields.io/static/v1?label=Github&message=0&color=red&logo=github)](https://github.com/Zydragon-x)
 [![Zhihu](https://img.shields.io/static/v1?label=Zhihu&message=216&color=blue&logo=zhihu&labelColor=abcdef)](https://www.zhihu.com/people/niu-l-28)
@@ -12,6 +13,8 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zydragon-x&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Zydragon-x&layout=compact&langs_count=10&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## A little something I made :pencil2:
