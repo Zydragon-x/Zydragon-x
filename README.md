@@ -16,6 +16,7 @@
 
 ## A little something I made :pencil2:
 - [My math notes](https://github.com/Zydragon-x/Ncu-math-notes)
+- [Ncu-Health-punch](https://github.com/Zydragon-x/Ncu-Health-punch)
 
 
 ## My social platform :space_invader:
