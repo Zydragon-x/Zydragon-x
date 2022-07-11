@@ -21,7 +21,7 @@
 ## A little something I made :pencil2:
 - [My math notes](https://github.com/Zydragon-x/Ncu-math-notes)
 - [Ncu-Health-punch](https://github.com/Zydragon-x/Ncu-Health-punch)
-
+- [Ncu-Beamer](https://github.com/Zydragon-x/Ncu-Beamer)
 
 ## My platform :space_invader:
 - [LeetCode](https://leetcode.cn/u/zydragon-e/)
