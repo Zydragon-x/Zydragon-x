@@ -32,7 +32,6 @@
 
 
 ## What am I studying recently :dart:
-- **Mathematica**
-- **Manimgl**
 - **python**
+- **R**
 
