@@ -32,8 +32,6 @@
 
 
 ## What am I studying recently :dart:
-- **latex**
-- **Matlab**
 - **Mathematica**
 - **Manimgl**
 - **python**
