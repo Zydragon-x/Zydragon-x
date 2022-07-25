@@ -24,8 +24,8 @@
 - [Ncu-Beamer](https://github.com/Zydragon-x/Ncu-Beamer)
 
 ## My platform :space_invader:
-- [LeetCode](https://leetcode.cn/u/zydragon-e/)
 - [Blog](https://zydragon-x.github.io/)
+- [LeetCode](https://leetcode.cn/u/zydragon-e/)
 - Release the street workout, leisure and other entertainment videos-[B站](https://space.bilibili.com/354150688)
 - Answer math questions and publish articles about math and reading-[知乎](https://www.zhihu.com/people/niu-l-28) <p> [<img src="https://stats.justsong.cn/api/zhihu?username=niu-l-28&theme=dark" alt="Zydragon-x's Zhihu Stats" width="49%" />](https://www.zhihu.com/people/niu-l-28) [<img src="https://stats.justsong.cn/api/leetcode?username=Zydragon-x&cn=true&theme=dark" alt="Zydragon-x's LeetCode Stats" width="49%" />](https://leetcode.cn/u/zydragon-e/)
 </p>
