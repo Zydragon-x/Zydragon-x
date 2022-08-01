@@ -32,5 +32,4 @@
 
 
 ## What am I studying recently :dart:
-- **python**
 
