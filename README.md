@@ -34,5 +34,6 @@
 ## What am I studying recently :dart:
 - Math
 - English
-- 前端
+- running hand
+- Street Workout
 
