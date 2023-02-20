@@ -18,13 +18,6 @@
 
 
 
-## A little something I made :pencil2:
-- [Ncu-Health-punch](https://github.com/Zydragon-x/Ncu-Health-punch)
-- [Ncu-Beamer](https://github.com/Zydragon-x/Ncu-Beamer)
-
-## My platform :space_invader:
-- [Blog](https://zydragon-x.github.io/)
-- [B站](https://space.bilibili.com/354150688)
 - [知乎](https://www.zhihu.com/people/niu-l-28) <p> [<img src="https://stats.justsong.cn/api/zhihu?username=niu-l-28&theme=dark" alt="Zydragon-x's Zhihu Stats" width="49%" />](https://www.zhihu.com/people/niu-l-28) 
 </p>
 
