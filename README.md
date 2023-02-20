@@ -18,11 +18,3 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Zydragon-x&layout=compact&langs_count=10&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
- <p> <img src="https://stats.justsong.cn/api/zhihu?username=niu-l-28&theme=dark" alt="Zydragon-x's Zhihu Stats" width="49%" />
-</p>
-
-
-
